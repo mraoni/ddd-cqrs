@@ -1,0 +1,15 @@
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.csprojAssemblyReference.cache
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.AssemblyInfoInputs.cache
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.AssemblyInfo.cs
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\Pagamento.Context.Domain.deps.json
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\Pagamento.Context.Domain.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\ref\Pagamento.Context.Domain.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\Pagamento.Context.Domain.pdb
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\Pagamento.Context.Shared.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\bin\Debug\net5.0\Pagamento.Context.Shared.pdb
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.csproj.CopyComplete
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\ref\Pagamento.Context.Domain.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Domain\obj\Debug\net5.0\Pagamento.Context.Domain.pdb

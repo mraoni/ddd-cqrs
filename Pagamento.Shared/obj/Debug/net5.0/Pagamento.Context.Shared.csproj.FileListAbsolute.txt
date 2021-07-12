@@ -1,0 +1,12 @@
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\bin\Debug\net5.0\Pagamento.Context.Shared.deps.json
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\bin\Debug\net5.0\Pagamento.Context.Shared.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\bin\Debug\net5.0\ref\Pagamento.Context.Shared.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\bin\Debug\net5.0\Pagamento.Context.Shared.pdb
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.AssemblyInfoInputs.cache
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.AssemblyInfo.cs
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.csproj.CoreCompileInputs.cache
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\ref\Pagamento.Context.Shared.dll
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.pdb
+C:\Users\raoni\source\repos\payments\Pagamento.Context.Shared\obj\Debug\net5.0\Pagamento.Context.Shared.csprojAssemblyReference.cache

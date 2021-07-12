@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pagamento.Context.Domain/1.0.0": {
+        "dependencies": {
+          "Pagamento.Context.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Pagamento.Context.Domain.dll": {}
+        }
+      },
+      "Pagamento.Context.Shared/1.0.0": {
+        "runtime": {
+          "Pagamento.Context.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pagamento.Context.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pagamento.Context.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
